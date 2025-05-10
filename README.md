@@ -1,2 +1,2 @@
-# dispatcher
-A Flutter application Courier/Companies to create deliveries and dispatch to courier through WhatsApp.
+# Dispatcher
+A Flutter application for Companies/Couriers entreprenuers to create deliveries and dispatch to courier through WhatsApp.
